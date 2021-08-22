@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1629433181619,
+      "nama": "Desta",
+      "jabatan": "Operator Produksi",
+      "jk": "Laki laki",
+      "tLahir": "2021-08-10"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
