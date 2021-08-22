@@ -187,21 +187,11 @@ componentDidMount() {
                     </tbody>
                   </table>
 
-
-
-
-                    {/* <p><br/>{dat.nama}</p>
-                    <p><br/>{dat.jabatan}</p>                     */}
-                    {/* <button value={dat.id} onClick={this.handleRemove}>Delete</button>
-                    <button value={dat.id} onClick={this.getDataId}>Edit dataApi</button> */}
                   </div>
                   );
                 })}
           </div>
         </div>
-
-        
-
       </div>
     );
   }
